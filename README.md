@@ -1,3 +1,3 @@
-https://fagmai.github.io/maitari/
+Para jogar, só clicar no link:
 
-Só clicar no link :)
+https://fagmai.github.io/maitari/
